@@ -2,7 +2,7 @@
 
 https://embruna.github.io/las6292/
 
-link to [about](https://github.com/embruna/las6292/blob/main/course_overview.md) to maintain and 
+link to [about](https://github.com/embruna/las6292/course_overview/) to maintain and 
 
 You can use the [editor on GitHub](https://github.com/embruna/las6292/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
