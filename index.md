@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LAS 6292 Data Collection & Management
 
 You can use the [editor on GitHub](https://github.com/embruna/las6292/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
