@@ -1,6 +1,7 @@
 ## Welcome to LAS 6292 Data Collection & Management
 
-https://embruna.github.io/las6292/
+
+Home: https://embruna.github.io/las6292/
 
 link to [about](https://github.com/embruna/las6292/overview.html) to maintain and 
 
