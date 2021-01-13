@@ -12,9 +12,6 @@ permalink: /course_overview/
 # tags:
 #   - R
 #   - data-wrangling
-
-# projects: ["bace-tea"]
-# draft: false
 ---
 ### course overview 
 
